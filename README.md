@@ -75,7 +75,8 @@ No other dependencies needed.
 
 ---
 
-## 🏁 Run Command
+## 🏁 Run
+Just download the Multi-Autoclicker.py file, paste it on your desktop and run it.
 
 ---
 
